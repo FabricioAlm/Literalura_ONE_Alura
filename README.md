@@ -1,6 +1,6 @@
 # Literalura
 
-![Leralura-img1](https://github.com/fabriciooliv/Literalura--ONE-Alura/assets/146496164/39b59d3a-ae10-462a-9588-a51516f62d13)
+![Leralura-img1](https://github.com/fabriciooliv/Literalura--ONE-Alura/assets/146496164/f2e38695-3396-44b5-ab0e-02cfb446f29e)
 
 A "Literalura" é uma aplicação Java/Spring Boot dedicada aos entusiastas de livros. Ela facilita a busca de livros, a listagem de livros registrados, a apresentação de autores, e oferece diversas funcionalidades voltadas para a leitura e organização de obras literárias.
 
