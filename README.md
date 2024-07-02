@@ -1,8 +1,10 @@
 # Literalura
 
+![image](https://github.com/fabriciooliv/Literalura--ONE-Alura/assets/146496164/325003d6-5adf-4fad-8de4-acc6bd6472f9) 
+
 A "Literalura" é uma aplicação Java/Spring Boot dedicada aos entusiastas de livros. Ela facilita a busca de livros, a listagem de livros registrados, a apresentação de autores, e oferece diversas funcionalidades voltadas para a leitura e organização de obras literárias.
 
-## Menu da Aplicação
+## 📘 Menu da Aplicação
 
 1. **Buscar livros pelo título**: Consulta a API Gutendex para buscar livros pelo título.
 2. **Listar livros registrados**: Exibe todos os livros registrados no banco de dados.
@@ -13,7 +15,7 @@ A "Literalura" é uma aplicação Java/Spring Boot dedicada aos entusiastas de l
 7. **Listar livros em um determinado idioma**: Lista livros registrados no banco de dados em um idioma especificado.
 8. **Encerrar a aplicação**: Encerra o programa.
 
-## Tecnologias Utilizadas
+## 💻 Tecnologias Utilizadas
 
 - **IntelliJ IDEA 2024.1.1 (Community Edition)**
 - **Java 17**
@@ -22,7 +24,7 @@ A "Literalura" é uma aplicação Java/Spring Boot dedicada aos entusiastas de l
 - **PostgreSQL**
 - **Gutendex API**
 
-## Configuração do Projeto
+## 🔨 Configuração do Projeto
 
 ### Pré-requisitos
 
@@ -30,7 +32,7 @@ A "Literalura" é uma aplicação Java/Spring Boot dedicada aos entusiastas de l
 - Maven
 - PostgreSQL
 
-## Estrutura do Projeto
+## 🌁 Estrutura do Projeto
 
 - `br.com.alura.literalura`: Pacote principal do projeto.
   - `principal`: Contém a classe `Principal`, que gerencia a execução da aplicação.
@@ -39,7 +41,7 @@ A "Literalura" é uma aplicação Java/Spring Boot dedicada aos entusiastas de l
   - `service`: Contém as classes de serviço (`ConsumoAPI`, `ConverteDados`).
 
 
-### Tutorial para o uso
+### 📕 Tutorial para o uso
 
 1. **Buscar livros pelo título**:
    - Digite `1` e pressione Enter.
